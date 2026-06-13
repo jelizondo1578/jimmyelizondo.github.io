@@ -1,9 +1,10 @@
 ---
-layout: home
-title: Welcome to my Web Mapping Portfolio!
+layout: default
+title: Web Mapping Portfolio
 ---
+# Welcome to my Web Mapping Portfolio!
 
-Hi, I’m Jimmy Elizondo.
+Hi, I'm Jimmy Elizondo.
 
 This is my web mapping portfolio for GEOG 583.
 
